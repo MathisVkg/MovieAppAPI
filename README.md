@@ -7,7 +7,7 @@
 
 ## Project
 You can see the project with this link to the github page.
-- <a href="https://mathisvkg.github.io/PewPew/" target="_blank">Movie App</a>
+- <a href="https://mathisvkg.github.io/MovieAppAPI/" target="_blank">Movie App</a>
 
 ## Process
 
