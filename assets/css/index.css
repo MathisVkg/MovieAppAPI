@@ -1,0 +1,131 @@
+
+body {
+    background-color: #303030;
+    color: white;
+    font-family: "lato", sans-serif;
+    margin: 0;
+    margin-bottom: 60px;
+}
+
+
+.topNav {
+    display: flex;
+    align-items: center;
+}
+.title {
+    margin-left: 90px;
+    margin-top: 20px;
+    font-size: 35px;
+    text-shadow: 2px 2px 4px #888888;
+}
+.search {
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    margin-left: 71%;
+}
+.submit {
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    margin-left: 15px;
+    transition: 0.3s ease-in-out;
+}
+.submit:hover {
+    background-color: rgb(92, 92, 92);
+    color: white;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+.cardMovie {
+    background-color: #242323;
+    /* box-shadow: 2px 2px 4px #000000; */
+    border-radius: 4px;
+    /* padding: 0 0 10px 0; */
+    margin: 10px;
+    width: 200px;
+    transition: 0.5s ease-in-out;
+}
+.cardMovie:hover {
+    transform: translateY(-8px);
+    background-color: white;
+    color: black;
+}
+
+
+
+
+.cardMovie:hover .imgMovie {
+    display: none;
+}
+.cardMovie:hover .description {
+    display: block;
+    padding: 15px;
+    font-size: 12px;
+}
+.description {
+    display: none;
+}
+
+
+
+.nameFlex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.movieScore1 {
+    margin-right: 15px;
+    background-color: #bd2d2d;
+    padding: 7px;
+    width: 20px;
+    border-radius: 4px;
+}
+.movieScore2 {
+    margin-right: 15px;
+    background-color: #e06c36;
+    padding: 7px;
+    width: 20px;
+    border-radius: 4px;
+}
+.movieScore3 {
+    margin-right: 15px;
+    background-color: #5fce43;
+    padding: 7px;
+    width: 20px;
+    border-radius: 4px;
+}
+.movieTitle {
+    margin-top: 5px;
+    margin-left: 15px;
+    font-size: 16px;
+    width: 128px;
+}
+
+
+
+.imgMovie {
+    width: 200px;
+}
+
+
+.idFlex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* width: 200px; */
+    /* height: 50px; */
+    font-size: 12px;
+    color: #bd2d2d;
+}
+.cardId {
+    margin-left: 15px;
+}
+.cardLang {
+    margin-right: 15px;
+}
