@@ -24,7 +24,7 @@ Styling the page with css and adding hover for a more interactive look.
 
 ## Snapshot
 
-<img src="https://github.com/MathisVkg/PewPew/blob/main/assets/img/snapshot.png" width="400">
+<img src="https://github.com/MathisVkg/MovieAppAPI/blob/main/assets/movieAppsnapchot.PNG?raw=true" width="400">
 
 ## Authors 
 
