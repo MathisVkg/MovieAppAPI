@@ -1,6 +1,6 @@
 # MovieAppAPI
 
-![forthebadge](https://forthebadge.com/images/badges/uses-html.svg) ![forthebadge](https://forthebadge.com/images/badges/uses-css.svg) ![forthebadge](https://forthebadge.com/images/badges/for-robots.svg) ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![forthebadge](https://forthebadge.com/images/badges/uses-html.svg) ![forthebadge](https://forthebadge.com/images/badges/uses-css.svg) ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 
 - **Project:** Website presenting a application of list of movie.
 - **Appearance of website:** Modern and slick with smooth color.
