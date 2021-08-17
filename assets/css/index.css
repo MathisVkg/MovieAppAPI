@@ -67,6 +67,8 @@ body {
     display: block;
     padding: 15px;
     font-size: 12px;
+    max-height: 230px;
+    overflow: hidden;
 }
 .description {
     display: none;
